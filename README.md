@@ -14,7 +14,7 @@ Started with a starter code for the Horiseon webpage. Cloned it then refactored 
 
 ## Screenshot
 
-![alt text](Develop\screenshot.png)
+![alt text](/week-1-challenge/Develop/assets/images/screenshot.png)
 
 ## Installation
 N/A 
