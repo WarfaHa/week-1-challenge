@@ -14,7 +14,7 @@ Started with a starter code for the Horiseon webpage. Cloned it then refactored 
 
 ## Screenshot
 
-![alt text](/assets/screenshot.png)
+![alt text](/assets/images/screenshot.png)
 
 ## Installation
 N/A 
