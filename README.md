@@ -14,7 +14,7 @@ Started with a starter code for the Horiseon webpage. Cloned it then refactored 
 
 ## Screenshot
 
-![Screenshot](https://warfaha.github.io/week-1-challenge/Develop/horiseon.png)
+![Screenshot](assets\images\horiseon.png/)
 
 ## Installation
 N/A 
